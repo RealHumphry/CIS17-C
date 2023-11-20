@@ -1,0 +1,277 @@
+                      ORBITO
+        Go with the flow & get 4-in-a-row!
+
+  How to play:
+     1) Select an opponent's piece and move
+        it to an adjacent, free spot (optional)
+     2) Choose where to place your piece
+     3) The board will orbit at the end of every turn
+     4) Get 4 in a row to win!
+  If no more moves can be played, the board will orbit 5 times
+
+ Note: When entering a position on the board, enter 
+       the letter followed by the number without spaces
+            Good: "A1" "c3"    Bad: "1A" "c 3"
+
+
+
+
+Player 1's turn: 
+
+      1  2  3  4
+    -------------
+  A |             
+  B |             
+  C |             
+  D |             
+You are X
+
+Enter position to place your piece  A2
+
+
+Player 2's turn: 
+
+      1  2  3  4
+    -------------
+  A | X           
+  B |             
+  C |             
+  D |             
+You are O
+
+Enter the position of an opponent's piece ('s' to skip)  s
+
+Enter position to place your piece  C3
+
+
+Player 1's turn: 
+
+      1  2  3  4
+    -------------
+  A |             
+  B | X     O     
+  C |             
+  D |             
+You are X
+
+Enter the position of an opponent's piece ('s' to skip)  B3
+
+Enter position where you want to move that piece ('c' to go back)  A2
+
+Enter position to place your piece  D2
+
+
+Player 2's turn: 
+
+      1  2  3  4
+    -------------
+  A | O           
+  B |             
+  C | X           
+  D |       X     
+You are O
+
+Enter the position of an opponent's piece ('s' to skip)  B2
+Choose a spot occupied by your opponent!
+
+Enter the position of an opponent's piece ('s' to skip)  D3
+
+Enter position where you want to move that piece ('c' to go back)  D4
+
+Enter position to place your piece  C2
+
+
+Player 1's turn: 
+
+      1  2  3  4
+    -------------
+  A |             
+  B | O           
+  C |       O  X  
+  D | X           
+You are X
+
+Enter the position of an opponent's piece ('s' to skip)  D4
+Choose a spot occupied by your opponent!
+
+Enter the position of an opponent's piece ('s' to skip)  s
+
+Enter position to place your piece  D4
+
+
+Player 2's turn: 
+
+      1  2  3  4
+    -------------
+  A |             
+  B |       O  X  
+  C | O        X  
+  D |    X        
+You are O
+
+Enter the position of an opponent's piece ('s' to skip)  D2
+
+Enter position where you want to move that piece ('c' to go back)  D1
+
+Enter position to place your piece  A4
+
+
+Player 1's turn: 
+
+      1  2  3  4
+    -------------
+  A |       O  X  
+  B |    O     X  
+  C |             
+  D | O  X        
+You are X
+
+Enter the position of an opponent's piece ('s' to skip)  s
+
+Enter position to place your piece  C4
+
+
+Player 2's turn: 
+
+      1  2  3  4
+    -------------
+  A |    O  X  X  
+  B |          X  
+  C |    O        
+  D |    O  X     
+You are O
+
+Enter the position of an opponent's piece ('s' to skip)  A3
+
+Enter position where you want to move that piece ('c' to go back)  B2
+
+Enter position to place your piece  C3
+
+
+Player 1's turn: 
+
+      1  2  3  4
+    -------------
+  A | O     X  X  
+  B |       O     
+  C |    X  O     
+  D |       O  X  
+You are X
+
+Enter the position of an opponent's piece ('s' to skip)  A1
+
+Enter position where you want to move that piece ('c' to go back)  B1
+
+Enter position to place your piece  A1
+
+
+Player 2's turn: 
+
+      1  2  3  4
+    -------------
+  A |    X  X     
+  B | X  O  O     
+  C | O     X  X  
+  D |          O  
+You are O
+
+Enter the position of an opponent's piece ('s' to skip)  A3
+
+Enter position where you want to move that piece ('c' to go back)  B4
+
+Enter position to place your piece  A1
+
+
+Player 1's turn: 
+
+      1  2  3  4
+    -------------
+  A | X        X  
+  B | O  O  X  X  
+  C | X  O     O  
+  D | O           
+You are X
+
+Enter the position of an opponent's piece ('s' to skip)  B2
+
+Enter position where you want to move that piece ('c' to go back)  A3
+
+Enter position to place your piece  B2
+
+
+Player 2's turn: 
+
+      1  2  3  4
+    -------------
+  A |    O  X  X  
+  B | X  X     O  
+  C | O  X  O     
+  D | X  O        
+You are O
+
+Enter the position of an opponent's piece ('s' to skip)  B2
+
+Enter position where you want to move that piece ('c' to go back)  A1
+
+Enter position to place your piece  B3
+
+
+Player 1's turn: 
+
+      1  2  3  4
+    -------------
+  A | O  X  X  O  
+  B | X  O  O     
+  C | X     X     
+  D | O  X  O     
+You are X
+
+Enter the position of an opponent's piece ('s' to skip)  B2
+
+Enter position where you want to move that piece ('c' to go back)  C2
+
+Enter position to place your piece  B2
+
+
+Player 2's turn: 
+
+      1  2  3  4
+    -------------
+  A | X  X  O     
+  B | O  O  X     
+  C | X  X  O     
+  D | X  O  X  O  
+You are O
+
+Enter the position of an opponent's piece ('s' to skip)  B3
+
+Enter position where you want to move that piece ('c' to go back)  C4
+
+Enter position to place your piece  B3
+
+
+Player 1's turn: 
+
+      1  2  3  4
+    -------------
+  A | X  O        
+  B | X  O  O  X  
+  C | O  O  X  O  
+  D | X  X  O  X  
+You are X
+
+Enter the position of an opponent's piece ('s' to skip)  B2
+
+Enter position where you want to move that piece ('c' to go back)  A3
+
+Enter position to place your piece  B2
+
+      1  2  3  4
+    -------------
+  A | O  O     X  
+  B | X  O  X  O  
+  C | X  X  O  X  
+  D | O  X  X  O  
+Player 2 wins!
+
+RUN SUCCESSFUL (total time: 6m 36s)
